@@ -1,0 +1,121 @@
+   zoparty/shorlist/shortlist_views.py
+   Line no-118
+   Line no-254
+-------------------------------------------
+   design/html/index.html 
+   line 446
+-------------------------------------------
+   Zoparty/entertainers/views.py
+   line no 660
+   Line no 755
+-------------------------------------------
+   zoparty/main/planning.py
+   line 1087
+-------------------------------------------
+   zoparty/main/views.py
+   Line no 1237,1391,1468,1707,2495,2536,3373
+----------------------------------------------
+   zoparty/shorlist/schedule_vendor_methods.py
+   line 292 
+----------------------------------------------
+   zoparty/shortlist/templates/book_now_confirmation_vendor.html
+   line 1304,1307
+-----------------------------------------------
+   zoparty/shortlist/templates/book_now_email.html
+   line 1305,1308
+------------------------------------------
+   zoparty/shortlist/templates/generic_packshort_mail.html
+   line 178,181
+-------------------------------------------------------
+   zoparty/shortlist/templates/phtographer_packshort_mail.html
+   line 181,184
+------------------------------------------------------------
+   zoparty/shortlist/templates/quotation_email_template_a_old.html
+   line 1542,1545
+----------------------------------------
+   zoparty/shortlist/templates/recce_confirmation_email_template_a.html
+   line 239,242
+---------------------------------------------
+   zoparty/shortlist/templates/send_tp_message.html
+   Line 1402,1405
+-----------------------------------------------
+   zoparty/shortlist/views.py
+   line 648,941,3624,4453
+---------------------------
+   Zoparty/templates/footer.html
+   Line no 91
+---------------------------
+   Zoparty/templates/footer_mobile.html
+   Line no 107,260
+------------------------------------
+   zoparty/trade_partner/templates/partials/makeup/_media.html
+   Line no 9,
+----------------------------
+   zoparty/trade_partner/templates/partials/makeup/_overview.html
+   Line no 389,
+-----------------------------
+   zoparty/trade_partner/templates/partials/makeup/_packages.html
+   Line no 94
+-----------------------------------
+   zoparty/trade_partner/templates/partials/partner/_media.html
+   Line no 11,
+------------------------------------
+   zoparty/trade_partner/templates/partials/partner/_overview.html
+   Line no 427
+-----------------------------------
+   zoparty/trade_partner/templates/partials/partner/_packages.html
+   Line no 108
+------------------------------------
+   zoparty/trade_partner/templates/partials/photo/_media.html
+   Line no 10
+----------------------------------------
+   zoparty/trade_partner/templates/partials/photo/_overview.html
+   Line no 400
+----------------------------------------
+   zoparty/trade_partner/templates/partials/photo/_packages.html
+   Line no 97
+-------------------------------------------
+   zoparty/venue/edit_venue/views/__init__.py
+   line 458
+---------------------------------------------
+   zoparty/venue/templates/subscriptions/view_organic_mail.html
+   line 1419,1422
+----------------------------
+   zoparty/main/templates/modals/planning.html 
+   line 37
+------------------------------------------
+   zoparty/ideabooks/ideabook_methods.py
+   line 498,500
+-----------------------------------
+   zoparty/main/celery_mails.py
+   line 28
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,30 @@
+   zoparty/ganalytics services.py
+   line 1035
+   line 1550
+-----------------------------------
+   Zoparty/main email_apis.py
+   Line no 72
+-----------------------------------
+   zoparty/main/views.py 
+   line no 1390,1467,1706,2090,2183,2325,2419
+------------------------------------------
+   Zoparty/private_apis  views.py
+   Line no 1483,2496,2505,2512,2734,2744,2818,2827,2834,3634,
+----------------------------------
+   zoparty/vm_allocations vm_productivity.py
+   line 220
+-------------------------------------
+    zoparty/main/prod_utils script_utils.py
+    line 83,163
+-----------------------------------
+    zoparty/main/templatetags facebook_error_logger.py      
+    line  46,67
+-------------------------------------
+    zoparty/registration/views rm_recces.py
+    line 375
+---------------------------------------
+   zoparty/venue/views event_summary_venue.py  
+   line 220,246
+----------------------------------------------
+   zoparty/venue_crm/scripts prod_utils.py
+   line 255,1576,1683
